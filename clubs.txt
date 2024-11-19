@@ -6,3 +6,5 @@ spurs
 Man united
 Everton
 Aston Villa
+Southampton
+Brighton
