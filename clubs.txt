@@ -4,3 +4,5 @@ chelsea
 arsenal
 spurs
 Man united
+Everton
+Aston Villa
